@@ -5,3 +5,4 @@ git add .
 git commit -m "mensaje de confirmación"
 git checkout
 git status
+git pull 
